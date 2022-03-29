@@ -161,14 +161,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'source code',
-               url: 'https://github.com/Ilhamskhzyi/botv1-Md
+               url: 'https://github.com/ai-man-123
              }
 
            },
              {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               PhoneNumber: '087773710155'
+               PhoneNumber: '60102810046'
              }
 
            },
@@ -188,7 +188,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            },
            {
              quickReplyButton: {
-               displayText: '𝚌𝚊𝚝𝚣𝚢 𝚝𝚎𝚊𝚖',
+               displayText: 'Aiman 𝚝𝚎𝚊𝚖',
                id: '.tqto',
              }
            }]
