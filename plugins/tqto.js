@@ -23,6 +23,8 @@ Ariffb:
 https://github.com/Ariffb25
 ilham: 
 https://github.com/Ilhamskhzyi
+Aiman:
+https://github.com/ai-man-123
 
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -35,7 +37,7 @@ https://github.com/Ilhamskhzyi
            hydratedButtons: [{
              urlButton: {
                displayText: '𝙶𝙴𝚃 𝙱𝙾𝚃',
-               url: 'https://github.com/Ilhamskhzyi/botv1-Md'
+               url: 'https://github.com/ai-man-123'
              }
 
            },
