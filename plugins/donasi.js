@@ -7,11 +7,6 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let handler = async (m) => {
 let duit = `𝘿𝙊𝙉𝘼𝙎𝙄 𝙑𝙄𝘼 •
 
-➥ 𝙂𝙊𝙋𝘼𝙔
-➥ 𝙊𝙑𝙊
-➥ 𝘿𝘼𝙉𝘼
-➥ 𝙋𝘼𝙔𝙋𝘼𝙇
-➥ 𝘽𝘼𝙉𝙆
 ➥ 𝙋𝙃𝙊𝙉𝙀𝙉𝙐𝙈𝘽𝙀𝙍
 ❍ 𝙉𝙀𝙓𝙏 → 𝙆𝙇𝙄𝙆 𝘽𝙐𝙏𝙏𝙊𝙉 
 
@@ -26,14 +21,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿',
-               url: 'https:/wa.me/687710621'
+               url: 'https:/wa.me/60102810046'
              }
 
            },
                {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               phoneNumber: '+6287773710155'
+               phoneNumber: '+60102810046'
              }
            },           
                {
