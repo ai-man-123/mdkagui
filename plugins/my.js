@@ -23,7 +23,7 @@ let anu = `╭───❑ 「 BALANCE 」 ❑────
            hydratedButtons: [{
              urlButton: {
                displayText: 'source code',
-               url: 'https://github.com/Ilhamskhzyi/botv1-Md'
+               url: 'https://github.com/ai-man-123'
              }
 
            },
@@ -44,7 +44,7 @@ let anu = `╭───❑ 「 BALANCE 」 ❑────
          { messageId: template.key.id }
      )
 }
-handler.help = ['my', 'my @user']
+handler.help = ['limit', 'my @user']
 handler.tags = ['xp']
 handler.command = /^(my)$/i
 
