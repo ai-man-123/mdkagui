@@ -20,7 +20,7 @@ https://github.com/Ilhamskhzyi/botv1-Md`
            hydratedButtons: [{
              urlButton: {
                displayText: '𝙶𝙴𝚃 𝙱𝙾𝚃',
-               url: 'https://github.com/Ilhamskhzyi/botv1-Md'
+               url: 'https://github.com/ai-man-123'
              }
 
            },
